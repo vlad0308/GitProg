@@ -10,6 +10,7 @@ namespace GitProg
             Console.WriteLine("доп. ветка");
 
 
+            Console.WriteLine("Вторая ветка");
 
         }
     }
