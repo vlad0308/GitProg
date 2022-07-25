@@ -6,7 +6,7 @@ namespace GitProg
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("");
+            Console.WriteLine("Первая ветка");
 
         }
     }
